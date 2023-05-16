@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SSPhishing</string>
+    <string name="toast_text">\"Alipay\" has moved into full-screen \n window to provide a secure environment</string>
+</resources>

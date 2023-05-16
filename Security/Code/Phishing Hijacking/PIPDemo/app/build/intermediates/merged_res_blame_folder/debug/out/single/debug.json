@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\layout_activity_call_out.xml.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\layout\\activity_call_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\layout_activity_video.xml.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-25:/drawable_actor.jpg.flat",
+        "source": "com.example.pipdemo.app-main-27:/drawable/actor.jpg"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-25:/drawable_actress.jpg.flat",
+        "source": "com.example.pipdemo.app-main-27:/drawable/actress.jpg"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\drawable_actor.jpg.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\drawable\\actor.jpg"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\drawable_actress.jpg.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\drawable\\actress.jpg"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\anim_exit.xml.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\anim\\exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\layout_activity_hijack.xml.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\layout\\activity_hijack.xml"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\drawable_pishing.jpg.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\drawable\\pishing.jpg"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\raw_live.mp4.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\raw\\live.mp4"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\anim_open.xml.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\anim\\open.xml"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\layout_activity_test.xml.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-merged_res-25:\\drawable_alipay.jpg.flat",
+        "source": "C:\\Users\\WTH\\.gradle\\daemon\\7.5\\com.example.pipdemo.app-main-27:\\drawable\\alipay.jpg"
+    }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExitFFStack</string>
+    <string name="btn_exit">退出劫持</string>
+    <string name="toast_text">For security reasons, Please use \n the web terminal to login to \"Alipay\"</string>
+</resources>

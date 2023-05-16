@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExitSwitchFFStack</string>
+    <string name="btn_exit">退出转换劫持</string>
+    <string name="toast_text">For security reasons,  \n \"Alipay\" has entered small window mode</string>
+</resources>

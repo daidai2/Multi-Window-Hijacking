@@ -1,0 +1,90 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.pipdemo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:6:5-45:19
+12        android:allowBackup="true"
+12-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] D:\Gradle\caches\transforms-3\09dce287f966ede6f56d2bc091f83727\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:8:9-65
+15        android:fullBackupContent="@xml/backup_rules"
+15-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:9:9-54
+16        android:icon="@mipmap/ic_launcher"
+16-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:10:9-43
+17        android:label="@string/app_name"
+17-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:11:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:12:9-54
+19        android:supportsRtl="true"
+19-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:13:9-35
+20        android:theme="@style/Theme.PIPDemo" >
+20-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:14:9-45
+21        <activity
+21-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:16:9-18:40
+22            android:name="com.example.pipdemo.TestActivity"
+22-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:17:13-41
+23            android:exported="false" />
+23-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:18:13-37
+24
+25        <service
+25-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:20:9-23:39
+26            android:name="com.example.pipdemo.TestService"
+26-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:21:13-40
+27            android:enabled="true"
+27-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:22:13-35
+28            android:exported="true" />
+28-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:23:13-36
+29        <service
+29-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:24:9-27:39
+30            android:name="com.example.pipdemo.MonitorService"
+30-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:25:13-43
+31            android:enabled="true"
+31-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:26:13-35
+32            android:exported="true" />
+32-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:27:13-36
+33
+34        <activity
+34-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:29:9-33:55
+35            android:name="com.example.pipdemo.CallOutActivity"
+35-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:30:13-44
+36            android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
+36-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:31:13-91
+37            android:exported="true"
+37-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:32:13-36
+38            android:supportsPictureInPicture="true" />
+38-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:33:13-52
+39        <activity
+39-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:34:9-44:20
+40            android:name="com.example.pipdemo.MainActivity"
+40-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:35:13-41
+41            android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
+41-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:36:13-91
+42            android:exported="true"
+42-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:37:13-36
+43            android:supportsPictureInPicture="true" >
+43-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:38:13-52
+44            <intent-filter>
+44-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:39:13-43:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:40:17-69
+45-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:40:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:42:17-77
+47-->D:\AndroidProject\PIPDemo\app\src\main\AndroidManifest.xml:42:27-74
+48            </intent-filter>
+49        </activity>
+50    </application>
+51
+52</manifest>

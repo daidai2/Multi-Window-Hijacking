@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToastObfuscation</string>
+    <string name="text">Toast混淆</string>
+</resources>

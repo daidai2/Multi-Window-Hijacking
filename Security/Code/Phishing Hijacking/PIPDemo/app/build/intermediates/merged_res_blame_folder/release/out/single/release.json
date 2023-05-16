@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pipdemo.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pipdemo.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pipdemo.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.pipdemo.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.pipdemo.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.pipdemo.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.pipdemo.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.pipdemo.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.pipdemo.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pipdemo.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.pipdemo.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.example.pipdemo.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/layout_activity_call_out.xml.flat",
+        "source": "com.example.pipdemo.app-main-6:/layout/activity_call_out.xml"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pipdemo.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pipdemo.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pipdemo.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/layout_activity_test.xml.flat",
+        "source": "com.example.pipdemo.app-main-6:/layout/activity_test.xml"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pipdemo.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pipdemo.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.example.pipdemo.app-main-6:/xml/backup_rules.xml"
+    }
+]

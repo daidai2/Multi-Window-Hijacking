@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <corners android:radius="5dp"/>   <!-- 设置圆角弧度 -->
+    <solid android:color="@color/alipay"/>   <!-- 设置背景颜色 -->
+</shape>
