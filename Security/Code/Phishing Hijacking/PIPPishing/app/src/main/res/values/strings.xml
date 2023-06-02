@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PIPPishing</string>
+    <string name="video_text">Video</string>
+    <string name="enter_text">PIP劫持模拟界面</string>
+    <string name="detection_button">检测Activity名字</string>
+</resources>
