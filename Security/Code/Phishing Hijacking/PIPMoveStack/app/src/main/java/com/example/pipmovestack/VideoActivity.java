@@ -10,6 +10,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Point;
+import android.media.MediaPlayer;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
@@ -136,6 +137,7 @@ public class VideoActivity extends AppCompatActivity {
         video.start(); //开始播放视频
     }
 
+    //处理视频暂停事件
     @Override
     public void onPause(){
         super.onPause();

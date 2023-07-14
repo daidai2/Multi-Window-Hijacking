@@ -218,5 +218,7 @@ public class MonitorList {
             "com.bitqiu.pan.activity.account.LoginActivity",
             "com.baidu.bce.moudel.login.activity.LoginActivity",
             "com.sina.vdisk2.ui.auth.MailLoginActivity",
-            "com.main.partner.user.activity.LoginActivity"};
+            "com.main.partner.user.activity.LoginActivity",
+            "com.vdian.android.lib.wdaccount.community.ui.activity.ACPhoneLoginCommunityActivity",
+            "com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity"};
 }

