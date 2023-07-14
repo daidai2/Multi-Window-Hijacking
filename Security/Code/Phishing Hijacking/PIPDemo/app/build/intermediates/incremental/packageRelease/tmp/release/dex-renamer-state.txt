@@ -1,4 +1,0 @@
-#Thu Sep 15 14:51:48 CST 2022
-base.0=D\:\\AndroidProject\\PIPDemo\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
